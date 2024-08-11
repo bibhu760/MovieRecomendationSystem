@@ -1,9 +1,4 @@
 streamlit
 requests
-<<<<<<< HEAD
 bz2file
-=======
-pickle
-bz2file
-lws
->>>>>>> c26691ddbd99224383febaf74d84cc31c7c8cef6
+
